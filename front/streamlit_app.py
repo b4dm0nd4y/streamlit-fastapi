@@ -3,7 +3,7 @@ import streamlit as st
 
 st.title('Simple FastAPI application')
 
-BASE_URL = 'http://127.0.0.1:8000'
+BASE_URL = 'http://158.160.168.111:8000'
 
 tab1, tab2, tab3 = st.tabs(['Image', 'Text', 'Table'])
 
