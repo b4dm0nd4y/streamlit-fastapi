@@ -1,0 +1,11 @@
+numpy
+Pillow
+scikit-learn
+torch
+torchvision
+uvicorn
+fastapi
+pydantic
+joblib
+
+python-multipart
